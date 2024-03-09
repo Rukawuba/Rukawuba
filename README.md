@@ -36,13 +36,14 @@ I'm currently open to remote opportunities in the fields of data science, machin
 --->
 
 ## Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Email:** rcu3@njit.edu
-- **Personal Website/Blog:** [Your Website/Blog](https://medium.com/@rbcu25)
+- **Personal Website/Blog:** [My Blog](https://medium.com/@rbcu25)
 
 <!---
 - **Twitter:** [@YourTwitterHandle](https://twitter.com/your-handle)
 - **T:** [@YourTwitterHandle](https://twitter.com/your-handle)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
 
 ## Tips for Your README
 - **Clarity:** Make sure your README is clear and concise. Provide enough information for users to understand what your project is about and how to use it, but avoid overwhelming them with unnecessary details.
