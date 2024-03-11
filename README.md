@@ -12,7 +12,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+
+<!---
 ## About Me
+--->
 Hello there! 👋 I'm Rob, a former software developer transitioning into the world of data science. With a passion for leveraging data to derive meaningful insights, I'm particularly drawn to the intersection of e-commerce, marketing, and data science. However, I also have a keen interest in real estate and sports, being a big sports fanatic myself.
 
 ## What You'll Find Here
