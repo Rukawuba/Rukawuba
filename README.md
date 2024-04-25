@@ -46,7 +46,7 @@ I'm currently open to remote opportunities in the fields of data science, machin
 ## Let's Connect!
 - **Email:** rcu3@njit.edu
 - **Personal Website/Blog:** [My Blog](https://medium.com/@rbcu25)
-- - **LinkedIn:** [My LinkedIn Profile ](https://www.linkedin.com/in/rob-ukawuba/)
+- **LinkedIn:** [My LinkedIn Profile ](https://www.linkedin.com/in/rob-ukawuba/)
 
 
 <!---
