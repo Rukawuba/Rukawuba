@@ -17,12 +17,12 @@ You can click the Preview link to take a look at your changes.
 <!---
 ## About Me
 --->
-Hello👋 I'm Rob, a former software developer, now in the world of data science. With a passion for leveraging data to derive meaningful insights, I'm particularly drawn to the intersection of e-commerce, marketing, and data science. However, I also have a keen interest in real estate and sports, being a big sports fanatic myself.
+Hello, I'm a former software developer, now in the world of data science. With a passion for leveraging data to derive meaningful insights, I'm particularly drawn to the intersection of e-commerce, marketing, and data science. However, I also have a keen interest in real estate and sports, being a big sports fanatic.
 
 ## What You'll Find Here
-- **Projects:** You'll find a collection of projects showcasing my skills in both software development and data science. From web development using HTML, CSS, and JavaScript to machine learning models and data analysis scripts, there's a variety of work to explore.
-- **Repositories:** Feel free to browse through my repositories. I'm open to collaborations and always eager to contribute to open-source projects.
-- **Documentation:** I strive to keep my projects well-documented to facilitate understanding and collaboration. You'll find detailed README files accompanying each project to guide you through installation, usage, and any other relevant information.
+- **Projects:** You'll find a collection of projects showcasing my skills in  software development and data science. There's a variety of work to explore from web development using HTML, CSS, and JavaScript to machine learning models and data analysis scripts.
+** Repositories: ** You can browse through my repositories. I'm open to collaborations and always looking to contribute to open-source projects.
+- **Documentation:** I keep my projects well-documented to facilitate understanding and collaboration. You'll find detailed README files for each project to guide you through installation, usage, and any other relevant information.
 
 <!---
 
