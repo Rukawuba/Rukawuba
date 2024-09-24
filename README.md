@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 ## About Me
 --->
-Hello, I'm a seasoned software developer, now in the world of data science. With a passion for leveraging data to derive meaningful insights, I'm particularly drawn to the intersection of e-commerce, marketing, and data science. However, I also have a keen interest in real estate and sports, being a big sports fanatic.
+Hello, I'm a software developer, now in the world of data science. With a passion for leveraging data to derive meaningful insights, I'm particularly drawn to the intersection of e-commerce, marketing, and data science. However, I also have a keen interest in real estate and sports, being a big sports fanatic.
 
 ## What You'll Find Here
 - **Projects:** You'll find a collection of projects showcasing my skills in  software development and data science. There's a variety of work to explore from web development using HTML, CSS, and JavaScript to machine learning models and data analysis scripts.
