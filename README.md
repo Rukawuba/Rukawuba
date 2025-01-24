@@ -17,7 +17,14 @@ You can click the Preview link to take a look at your changes.
 <!---
 ## About Me
 --->
-Hello, I'm a software developer, now in the world of data science. With a passion for leveraging data to derive meaningful insights, I'm particularly drawn to the intersection of e-commerce, marketing, and data science. However, I also have a keen interest in real estate and sports, being a big sports fanatic.
+
+-Dev projects
+-Data Science Projects
+-Business Creation
+-Sports
+-Traveling
+-Fitness
+
 
 
 <!---
