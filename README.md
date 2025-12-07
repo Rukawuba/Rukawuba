@@ -4,7 +4,7 @@
 Short 2–4 sentences summarizing who you are, what you do (data science / ML), your domain interests (sports analytics, real estate, etc.), and what you’re passionate about.  
 
 ## Skills & Tools
-- Programming: Python, (maybe R / SQL / etc)  
+- Programming: Python, SQL 
 - ML & Data: scikit-learn / pandas / NumPy / data visualization / statistical modeling / predictive modeling  
 - Analytics / Domains: Sports analytics (basketball), Real-estate data, whatever you have worked on  
 - Other tools: (data engineering, version control, visualization libraries, etc.)  
