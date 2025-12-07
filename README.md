@@ -1,4 +1,4 @@
-# Rob Rukawuba — Data Scientist & Machine Learning Engineer 🏀📊  
+# Data Scientist & Machine Learning Engineer 🏀📊  
 
 ## About Me
 Short 2–4 sentences summarizing who you are, what you do (data science / ML), your domain interests (sports analytics, real estate, etc.), and what you’re passionate about.  
