@@ -1,4 +1,4 @@
-Basketball Data Scientist & Analytics Engineer 🏀📊
+#Basketball Data Scientist & Analytics Engineer 🏀📊
 
 Former professional basketball player transitioning into basketball analytics, data engineering, and performance science.  
 I build end-to-end data pipelines, analytical models, and decision-support tools using real basketball data — focused on lineups, player impact, game context, and movement analytics.
